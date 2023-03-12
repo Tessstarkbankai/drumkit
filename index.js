@@ -32,7 +32,6 @@ function makesound(key) {
     case "s":
       var tom3 = new Audio('sounds/tom-3.mp3');
       tom3.play();
-      alert("tom 2 has been played");
       break;
 
     case "d":
